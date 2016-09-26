@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="HTML5 Output"
@@ -14,7 +14,8 @@
   GenerateWebSafeImages="true"
   WebSafeFileExtension="png"
   EnableResponsiveOutput="true"
-  Skin="/Project/Skins/HTML5.flskn">
+  Skin="/Project/Skins/HTML5.flskn"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true" />
   <Glossaries />
